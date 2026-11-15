@@ -3,7 +3,7 @@
 > AthwinUI is a lightweight, framework-free CSS component library. One stylesheet, no JavaScript required, light and dark themes built in. All classes are prefixed `aw-`. Colors, radii, shadows and fonts are CSS custom properties (`--aw-*`).
 
 - Docs site: https://atherix.org/athwinui
-- Source: https://github.com/D-gger/athwinui
+- Source: https://github.com/atherix-org/athwinui
 - License: GPL-3.0
 
 ## Install
@@ -11,7 +11,7 @@
 Add this to the `<head>` of any HTML page, then use `aw-*` classes:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/D-gger/athwinui@main/athwin.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atherix-org/athwinui@main/athwin.css">
 ```
 
 Via npm: `npm install athwinui`, then `import "athwinui/athwin.css"`.
@@ -24,7 +24,7 @@ Minimal page:
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/D-gger/athwinui@main/athwin.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/atherix-org/athwinui@main/athwin.css">
 </head>
 <body>
   <main class="aw-container aw-section">
@@ -130,4 +130,4 @@ Override tokens for dark mode too: `[data-aw-theme="dark"] { --aw-primary: …; 
 ## Optional
 
 - Full interactive docs with live previews: https://atherix.org/athwinui
-- Stylesheet source: https://github.com/D-gger/athwinui/blob/main/athwin.css
+- Stylesheet source: https://github.com/atherix-org/athwinui/blob/main/athwin.css
