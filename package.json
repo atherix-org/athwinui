@@ -13,10 +13,10 @@
   "homepage": "https://atherix.org/athwinui",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/D-gger/athwinui.git"
+    "url": "git+https://github.com/atherix-org/athwinui.git"
   },
   "bugs": {
-    "url": "https://github.com/D-gger/athwinui/issues"
+    "url": "https://github.com/atherix-org/athwinui/issues"
   },
   "license": "GPL-3.0-only",
   "style": "athwin.css",
