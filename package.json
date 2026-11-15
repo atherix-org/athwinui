@@ -23,13 +23,13 @@
   "main": "athwin.css",
   "files": [
     "athwin.css",
-    "llms.txt",
+    "llms.md",
     "README.md"
   ],
   "exports": {
     ".": "./athwin.css",
     "./athwin.css": "./athwin.css",
-    "./llms.txt": "./llms.txt",
+    "./llms.md": "./llms.md",
     "./package.json": "./package.json"
   },
   "unpkg": "athwin.css",
